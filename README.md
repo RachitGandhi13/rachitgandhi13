@@ -10,8 +10,8 @@
 
 - 🌱 Currently learning **JavaScript, React, Node.js**
 - 💬 Ask me about **Python, SQL, Git**
-- 📫 Reach me at: rachitgandhi13@gmail.com
-- 🎵 Fun Fact: I love music and mixing it with tech!
+- 📫 Reach me at: rachitgandhi138@gmail.com
+- 🎵 Fun Fact: I love exploring tech!
 
 ---
 
