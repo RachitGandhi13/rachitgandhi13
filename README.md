@@ -19,11 +19,12 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing t
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 GitHub Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default&hide_border=true)
+- 🔭 Exploring new technologies and frameworks
+- 🌟 Contributing to meaningful projects
+- 📊 Growing my coding skills every day
+- 🤝 Collaborating with amazing developers worldwide
 
 ## 🎯 What I'm Working On
 
