@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing t
 ## 💡 Fun Facts
 
 - ☕ Coffee enthusiast and coding go hand in hand
-- 🎮 Enjoy gaming in my free time
+-   Enjoy reading in my free time
 - 📚 Always reading tech blogs and staying updated
 - 🌍 Believe in the power of technology to make the world better
 
