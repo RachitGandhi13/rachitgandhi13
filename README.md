@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year B.Tech in Computer Science at **SRM University** (graduating 2027), GPA 8.97/10
+- 🎓 Final-year B.Tech in Computer Science at **SRM University** (graduating 2027), GPA 9/10
 - 💻 Full-stack developer focused on the **MERN stack, Next.js, and TypeScript**
 - 🛰️ Niche interests in **real-time systems (WebRTC, Socket.io)** and **Web3 (Solidity, Rust)**
 - 🏗️ I like owning features end to end, from data modeling and APIs to the UI, and making sure they hold up in production
