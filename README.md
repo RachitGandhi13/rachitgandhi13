@@ -116,7 +116,7 @@ Figma-style multiplayer whiteboard. Raw WebSockets, sub-50ms stroke broadcast. N
 <td width="50%" valign="top">
 
 ### The Language Salon &nbsp;`LIVE`
-Production site for a language coaching brand. Built end to end with live Razorpay payments.
+Production site for a coaching brand's live workshops. Paid registration and Razorpay checkout, built end to end.
 
 `Next.js` `TypeScript` `Razorpay` `Node`
 
