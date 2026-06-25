@@ -1,4 +1,12 @@
+<!--
+  ╭──────────────────────────────────────────────────────────────╮
+  │  Rachit Gandhi  •  GitHub Profile README                     │
+  │  All project links below are confirmed from your portfolio.  │
+  │  Snake setup: add .github/workflows/snake.yml, run it once.  │
+  ╰──────────────────────────────────────────────────────────────╯
+-->
 
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C8EBF,100:8E7CC3&height=210&section=header&text=Rachit%20Gandhi&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Production-grade%20web%20apps%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Web3&descAlignY=58&descSize=16&animation=fadeIn" alt="header banner" />
@@ -16,7 +24,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to-Freelance%20%26%20Internships-2EA44F?style=for-the-badge" alt="open to work"/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Internships-2EA44F?style=for-the-badge" alt="open to work"/>
 <img src="https://komarev.com/ghpvc/?username=RachitGandhi13&style=for-the-badge&color=6C8EBF&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
@@ -108,7 +116,7 @@ Figma-style multiplayer whiteboard. Raw WebSockets, sub-50ms stroke broadcast. N
 <td width="50%" valign="top">
 
 ### The Language Salon &nbsp;`LIVE`
-Production coaching platform. 2000+ professionals, 300K+ viewers, real Razorpay payments. Fraud cut 20%.
+Production site for a language coaching brand. Built end to end with live Razorpay payments.
 
 `Next.js` `TypeScript` `Razorpay` `Node`
 
@@ -149,14 +157,6 @@ WebRTC video conferencing from scratch. Native P2P media, Socket.io signaling. N
 
 </div>
 
-<!-- ===================== TROPHIES ===================== -->
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=RachitGandhi13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 
 ## Contribution Graph
@@ -169,7 +169,7 @@ WebRTC video conferencing from scratch. Native P2P media, Socket.io signaling. N
 
 <!-- ===================== SNAKE ===================== -->
 
-## Watch the Snake Eat My Contributions
+## Watch the Snake eat my Contributions
 
 <div align="center">
 
