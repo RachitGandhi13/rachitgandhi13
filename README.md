@@ -1,12 +1,4 @@
-<!--
-  ╭──────────────────────────────────────────────────────────────╮
-  │  Rachit Gandhi  •  GitHub Profile README                     │
-  │  All project links below are confirmed from your portfolio.  │
-  │  Snake setup: add .github/workflows/snake.yml, run it once.  │
-  ╰──────────────────────────────────────────────────────────────╯
--->
 
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C8EBF,100:8E7CC3&height=210&section=header&text=Rachit%20Gandhi&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Production-grade%20web%20apps%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Web3&descAlignY=58&descSize=16&animation=fadeIn" alt="header banner" />
@@ -31,18 +23,18 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## 👨‍💻 About Me
+## About Me
 
-- 🏗️ Freelance full-stack developer shipping production-grade web apps.
-- ☁️ Three lanes: **full-stack web development, DevOps, and Web3**.
-- ⚡ I like the hard parts: real-time media, payments, and infrastructure.
-- 🤖 Lately deep in **Generative AI and agentic workflows**.
-- 📍 Based in Chennai, India. B.Tech CS at **SRM University**, GPA 9 / 10.
-- 🟢 Open to **freelance projects** and **internship opportunities**.
+- Freelance full-stack developer shipping production-grade web apps.
+- Three lanes: **full-stack web development, DevOps, and Web3**.
+- I like the hard parts: real-time media, payments, and infrastructure.
+- Lately deep in **Generative AI and agentic workflows**.
+- Based in Chennai, India. B.Tech CS at **SRM University**, GPA 9 / 10.
+- Open to **freelance projects** and **internship opportunities**.
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -87,13 +79,13 @@
 
 <!-- ===================== PROJECTS ===================== -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 D2C Campaign Engine
+### D2C Campaign Engine
 Plain English becomes precise audience segments via Claude AI. Async delivery, full conversion attribution.
 
 `TypeScript` `PostgreSQL` `Drizzle` `Claude AI`
@@ -103,7 +95,7 @@ Plain English becomes precise audience segments via Claude AI. Async delivery, f
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Inkboard
+### Inkboard
 Figma-style multiplayer whiteboard. Raw WebSockets, sub-50ms stroke broadcast. No Liveblocks.
 
 `Next.js` `WebSockets` `Turborepo` `React`
@@ -115,7 +107,7 @@ Figma-style multiplayer whiteboard. Raw WebSockets, sub-50ms stroke broadcast. N
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 The Language Salon &nbsp;`LIVE`
+### The Language Salon &nbsp;`LIVE`
 Production coaching platform. 2000+ professionals, 300K+ viewers, real Razorpay payments. Fraud cut 20%.
 
 `Next.js` `TypeScript` `Razorpay` `Node`
@@ -125,7 +117,7 @@ Production coaching platform. 2000+ professionals, 300K+ viewers, real Razorpay 
 </td>
 <td width="50%" valign="top">
 
-### 📹 Aurora Connect
+### Aurora Connect
 WebRTC video conferencing from scratch. Native P2P media, Socket.io signaling. No SDK shortcuts.
 
 `React` `WebRTC` `Socket.io` `Express`
@@ -138,7 +130,7 @@ WebRTC video conferencing from scratch. Native P2P media, Socket.io signaling. N
 
 <!-- ===================== CERTIFICATIONS ===================== -->
 
-## 🏅 Certifications
+## Certifications
 
 ![Oracle](https://img.shields.io/badge/Oracle-Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Programming_in_Java-2088FF?style=flat-square)
@@ -146,7 +138,7 @@ WebRTC video conferencing from scratch. Native P2P media, Socket.io signaling. N
 
 <!-- ===================== STATS ===================== -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -167,7 +159,7 @@ WebRTC video conferencing from scratch. Native P2P media, Socket.io signaling. N
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -177,7 +169,7 @@ WebRTC video conferencing from scratch. Native P2P media, Socket.io signaling. N
 
 <!-- ===================== SNAKE ===================== -->
 
-## 🐍 Watch the Snake Eat My Contributions
+## Watch the Snake Eat My Contributions
 
 <div align="center">
 
